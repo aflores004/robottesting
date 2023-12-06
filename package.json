@@ -2,12 +2,11 @@
   "name": "robotfolder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node ./db/seed.js",
-    "start": "node app.cjs",
-    "build": "npm run build"
+    "seed": "node /mnt/c/Users/thesa/OneDrive/Documents/Coursework/robotfolder/db/seed.cjs",
+    "start": "node app.cjs"
   },
   "keywords": [],
   "author": "",
