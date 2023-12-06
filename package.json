@@ -5,7 +5,7 @@
   "main": "app.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node /mnt/c/Users/thesa/OneDrive/Documents/Coursework/robotfolder/db/seed.cjs",
+    "seed": "node ./db/seed.cjs",
     "start": "node app.cjs"
   },
   "keywords": [],
